@@ -12,9 +12,9 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/konnagula-srikanth/",
-    twitter: "https://twitter.com/RishavChanda",
+    twitter: "https://twitter.com/KonnagulaS",
     insta: "https://www.instagram.com/konnagula_srikanth/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    facebook: "https://www.facebook.com/people/Srikanth-Konnagula/pfbid02bN9QwViJpvLgnDmWJCyAGvuQo4PVpYqZnK6NgfrNyjyqa2MAKqoYs46StgbiaFBGl/",
   };
   
   export const skills = [
@@ -289,29 +289,29 @@ export const Bio = {
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-      school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-      date: "Oct 2021 - Sep 2025",
-      grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+      school: "Sphoorthy Engineering College, Hyderabad",
+      date: "Oct 2019 - Sep 2023",
+      grade: "6.71 CGPA",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Sphoorthy Engineering College, Hyderabad. I have completed 8 semesters and have a CGPA of 6.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the IEDC Student Club  at SPHN, where I am learning and working on exciting projects with a team of talented developers.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
     {
       id: 1,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2019 - Apr 2025",
-      grade: "88.2%",
-      desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-      degree: "ISC(XII), Science with Computer",
+      school: "Triveni Junior College, Achampet",
+      date: "Apr 2017 - Apr 2019",
+      grade: "92.26%",
+      desc: "I completed my class 12 high school education at Triveni Junior College, Achempet, where I studied Maths, Physics with Chemistry.",
+      degree: "ISC(XII), MPC(Maths, Physics with Chemistry)",
     },
     {
       id: 2,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2017 - Apr 2019",
-      grade: "92.3%",
-      desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-      degree: "ICSC(X), Science with Computer",
+      school: "Zilla Parishad High School(Boys), Achampet",
+      date: "Apr 2016 - Apr 2017",
+      grade: "78.0%",
+      desc: "I completed my class 10 education at Zilla Parishad High School, Achampet.",
+      degree: "SSC(X)",
     },
   ];
   

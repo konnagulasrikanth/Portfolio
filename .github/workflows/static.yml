@@ -1,3 +1,4 @@
+# Build and deploy the React app to GitHub Pages
 name: Deploy static content to Pages
 
 on:
@@ -29,6 +30,8 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build
+        env:
+          CI: false
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

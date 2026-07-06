@@ -1,13 +1,12 @@
 export const Bio = {
     name: "Srikanth Konnagula",
     roles: [
+      "Aspiring Azure Data Engineer",
       "Full Stack Developer",
       ".Net Developer",
-      "Android Developer",
-      "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "I am a Full Stack / .Net Developer (Aug 2023 - Present) transitioning into Azure Data Engineering. Through structured self-study and hands-on personal projects, I have built practical skills in SQL, Python, PySpark, Azure Databricks, Azure Data Factory, and Delta Lake - and I am actively building a portfolio of data engineering projects to support this transition. I bring a strong engineering foundation and a growth mindset to solving real data problems.",
     github: "https://github.com/konnagulasrikanth",
     resume:
       "https://drive.google.com/file/d/179k3m0JXWsL_C-sYPtCutoJEOELZ_1gG/view?usp=drive_link",
@@ -60,6 +59,51 @@ export const Bio = {
           name: "Bootstrap",
           image:
             "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+        },
+      ],
+    },
+    {
+      title: "Cloud & Data Engineering",
+      skills: [
+        {
+          name: "Azure",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+        },
+        {
+          name: "Azure Data Factory",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+        },
+        {
+          name: "Databricks",
+          image:
+            "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg",
+        },
+        {
+          name: "PySpark",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg",
+        },
+        {
+          name: "Delta Lake",
+          image:
+            "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg",
+        },
+        {
+          name: "Azure Synapse Analytics",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+        },
+        {
+          name: "SQL",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        },
+        {
+          name: "Python (Pandas/NumPy)",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
         },
       ],
     },
@@ -142,6 +186,24 @@ export const Bio = {
   ];
   
   export const experiences = [
+    {
+      id: -1,
+      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+      role: "Azure Data Engineering (Self-Directed Upskilling)",
+      company: "Personal Projects & Self-Study",
+      date: "2025 - Present",
+      desc: "Alongside my current .Net Developer role, I have been building hands-on data engineering capability through self-directed study and personal projects: SQL, Python (Pandas/NumPy), PySpark, Azure Databricks, Azure Data Factory, and Delta Lake. Actively working through a structured study plan and building a portfolio of data engineering projects on GitHub as part of a planned transition into data engineering.",
+      skills: [
+        "SQL",
+        "Python",
+        "PySpark",
+        "Databricks",
+        "Azure Data Factory",
+        "Delta Lake",
+        "Azure Synapse Analytics",
+      ],
+      doc: "",
+    },
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/images-41171.appspot.com/o/icon.png?alt=media&token=5b6edfdb-c672-4543-bf00-58e27f469a0f",
@@ -244,6 +306,19 @@ export const Bio = {
   ];
   
   export const projects = [
+    {
+      id: 11,
+      title: "CSV to Delta Lake Ingestion Pipeline (Azure Databricks)",
+      date: "May 2026 - Jun 2026",
+      description:
+        "Built an end-to-end data pipeline on Azure (trial subscription) that ingests CSV files, applies transformations using PySpark within Azure Databricks notebooks, and writes the processed data into Delta Lake tables. Covered schema handling, data cleaning/transformation logic, and structured Delta table output as part of self-directed Azure Data Engineering upskilling.",
+      image:
+        "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+      tags: ["Azure Databricks", "PySpark", "Delta Lake", "Python"],
+      category: "data engineering",
+      github: "https://github.com/konnagulasrikanth/",
+      webapp: "https://github.com/konnagulasrikanth/",
+    },
     {
       id: 9,
       title: "Training Management System",

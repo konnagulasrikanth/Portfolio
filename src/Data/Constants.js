@@ -1,14 +1,12 @@
 export const Bio = {
     name: "Srikanth Konnagula",
-    roles: [
-      "Aspiring Azure Data Engineer",
-      "Full Stack Developer",
-      ".Net Developer",
-    ],
+   roles: [
+  "Azure Data Engineer",
+  "PySpark Developer",
+  "Databricks Engineer",
+],
     description:
-      "I am a Full Stack / .Net Developer (Aug 2023 - Present) transitioning into Azure Data Engineering. Through structured self-study and hands-on personal projects, I have built practical skills in SQL, Python, PySpark, Azure Databricks, Azure Data Factory, and Delta Lake - and I am actively building a portfolio of data engineering projects to support this transition. I bring a strong engineering foundation and a growth mindset to solving real data problems.",
-    github: "https://github.com/konnagulasrikanth",
-    resume:
+  "Azure Data Engineer with 3+ years of experience in building scalable data ingestion pipelines and processing large datasets using PySpark and SQL. Experienced in Azure Databricks, Azure Data Factory, and Delta Lake. Skilled in data transformation, workflow orchestration, data validation, and performance optimization. Passionate about building reliable and scalable data platforms using modern Azure technologies.",
       "https://drive.google.com/file/d/179k3m0JXWsL_C-sYPtCutoJEOELZ_1gG/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/konnagula-srikanth/",
     twitter: "https://twitter.com/KonnagulaS",
@@ -207,29 +205,25 @@ export const Bio = {
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/images-41171.appspot.com/o/icon.png?alt=media&token=5b6edfdb-c672-4543-bf00-58e27f469a0f",
-      role: ".Net Developer",
-      company: "Infinite Computer Solutions Pvt. Ltd.",
-      date: "Aug 2023 - Present",
-      desc: "Working on Desktop Applications ,Console Applications ,WebApplications using .net and ReactJs",
-      skills: [
-        "C#",
-        "ASP.NET",
-        "ASP.NET CORE",
-        "MVC",
-        "MVC CORE",
-        "WPF",
-        "WPF(.NET Framework)",
-        "React Js",
-        "HTML",
-        "JavaScript",
-        "CSS",
-        "Bootstrap",
-        "Java",
-        "MYSQL",
-        "SQL",
+    role: "Azure Data Engineer"
 
+company: "Infinite Computer Solutions Pvt. Ltd."
 
-      ],
+date: "Aug 2023 - Present"
+
+desc:
+"Worked on developing scalable data ingestion pipelines using Azure Databricks, PySpark, Azure Data Factory, and SQL for Healthcare data processing. Designed data transformation workflows, automated ingestion pipelines, implemented data validation, and optimized ETL jobs."
+     skills: [
+"Python",
+"PySpark",
+"SQL",
+"Azure Databricks",
+"Azure Data Factory",
+"Delta Lake",
+"Azure Data Lake",
+"Git",
+"Autosys",
+],
       doc: "",
     },
     {
